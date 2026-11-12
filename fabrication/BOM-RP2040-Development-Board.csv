@@ -1,0 +1,25 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0.1u,"C10,C11,C12,C13,C16,C17,C6,C7,C8,C9",C_0402_1005Metric,C1525,10
+10k,R8,R_0603_1608Metric,C25804,1
+15p,"C4,C5",C_0402_1005Metric,C1548,2
+1k,R7,R_0603_1608Metric,C20197,1
+1k,R4,R_0603_1608Metric,C21190,1
+1u,"C14,C15",C_0402_1005Metric,C1525,2
+1u,"C1,C18,C2,C3",C_0402_1005Metric,C52923,4
+27,"R5,R6",R_0603_1608Metric,C25190,2
+5.1k,"R1,R2",R_0603_1608Metric,C23186,2
+AP2112K-3.3,U2,SOT-23-5_HandSoldering,C51118,1
+LED,D1,LED_0603_1608Metric,C2286,1
+RP2040,U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,C2040,1
+USB_C_Receptacle_USB2.0_14P,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C3151746,1
+W25Q16JVSS,U3,SOIC-8_5.3x5.3mm_P1.27mm,C131025,1
+YXC 12MHZ,U10,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,C9002,1
+Conn_01x12_Pin,J5,PinSocket_1x12_P2.54mm_Vertical,,1
+Analog 4_Conn,J6,PinSocket_1x04_P2.54mm_Vertical,,1
+DEVICE_SWITCH,SW1,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,,1
+Conn_01x02_Pin,J2,PinSocket_1x02_P2.54mm_Vertical,,1
+Conn_01x08_Pin,J3,PinSocket_1x08_P2.54mm_Vertical,,1
+Conn_01x06_Pin,J4,PinSocket_1x06_P2.54mm_Vertical,,1
+DNF,R3,R_0603_1608Metric,,1
+Conn_01x02_Pin,J8,PinSocket_1x02_P2.54mm_Vertical,,1
+Debug,J7,PinHeader_1x03_P2.54mm_Vertical,,1

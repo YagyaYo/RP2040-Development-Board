@@ -1,0 +1,45 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1u,C_0402_1005Metric,180.53,-122.46,0.0,top
+C10,0.1u,C_0402_1005Metric,160.57,-125.71,0.0,top
+C11,0.1u,C_0402_1005Metric,162.88,-106.61,180.0,top
+C12,0.1u,C_0402_1005Metric,174.56,-100.1,90.0,top
+C13,0.1u,C_0402_1005Metric,173.2625,-110.83,-90.0,top
+C14,1u,C_0402_1005Metric,176.02,-111.84,-90.0,top
+C15,1u,C_0402_1005Metric,169.26,-104.34,180.0,top
+C16,0.1u,C_0402_1005Metric,176.43,-100.42,90.0,bottom
+C17,0.1u,C_0402_1005Metric,180.22,-108.56,0.0,top
+C18,1u,C_0402_1005Metric,180.78,-104.37,180.0,top
+C2,1u,C_0402_1005Metric,183.84,-99.81,90.0,top
+C3,1u,C_0402_1005Metric,184.41,-115.6,0.0,top
+C4,15p,C_0402_1005Metric,179.19,-98.51,180.0,top
+C5,15p,C_0402_1005Metric,183.18,-91.74,-90.0,top
+C6,0.1u,C_0402_1005Metric,174.91,-110.71,-90.0,top
+C7,0.1u,C_0402_1005Metric,171.3925,-110.36,-90.0,top
+C8,0.1u,C_0402_1005Metric,168.61,-115.39,180.0,top
+C9,0.1u,C_0402_1005Metric,182.56,-88.77,180.0,top
+D1,LED,LED_0603_1608Metric,167.0825,-109.09,180.0,top
+H1,MountingHole,MountingHole_2.2mm_M2,200.79,-130.05,0.0,top
+H2,MountingHole,MountingHole_2.2mm_M2,149.51,-130.23,0.0,top
+H3,MountingHole,MountingHole_2.2mm_M2,149.57,-73.86,180.0,top
+H4,MountingHole,MountingHole_2.2mm_M2,200.88,-74.0,180.0,top
+J1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,176.63,-127.035,180.0,top
+J2,Conn_01x02_Pin,PinSocket_1x02_P2.54mm_Vertical,169.58,-87.83,180.0,top
+J3,Conn_01x08_Pin,PinSocket_1x08_P2.54mm_Vertical,157.79,-97.19,180.0,top
+J4,Conn_01x06_Pin,PinSocket_1x06_P2.54mm_Vertical,177.04,-81.81,90.0,top
+J5,Conn_01x12_Pin,PinSocket_1x12_P2.54mm_Vertical,192.18,-104.19,0.0,top
+J6,Analog 4_Conn,PinSocket_1x04_P2.54mm_Vertical,158.99,-116.66,180.0,top
+J7,Debug,PinHeader_1x03_P2.54mm_Vertical,164.74,-99.18,180.0,top
+J8,Conn_01x02_Pin,PinSocket_1x02_P2.54mm_Vertical,185.64,-87.35,180.0,top
+R1,5.1k,R_0603_1608Metric,172.2525,-118.295,90.0,top
+R2,5.1k,R_0603_1608Metric,179.47,-117.65,90.0,top
+R3,DNF,R_0603_1608Metric,183.8525,-112.32,90.0,top
+R4,1k,R_0603_1608Metric,178.15,-111.55,90.0,top
+R5,27,R_0603_1608Metric,177.04,-114.895,90.0,top
+R6,27,R_0603_1608Metric,175.07,-114.78,90.0,top
+R7,1k,R_0603_1608Metric,181.56,-91.11,-90.0,top
+R8,10k,R_0603_1608Metric,171.96,-98.28,-90.0,top
+SW1,DEVICE_SWITCH,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,164.97,-89.41,90.0,top
+U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,175.0825,-105.53,180.0,top
+U10,YXC 12MHZ,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,181.71,-95.51,180.0,top
+U2,AP2112K-3.3,SOT-23-5_HandSoldering,184.8225,-118.66,0.0,top
+U3,W25Q16JVSS,SOIC-8_5.3x5.3mm_P1.27mm,185.7775,-105.6525,0.0,top
